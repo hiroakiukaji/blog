@@ -1,6 +1,4 @@
-<IfModule mod_php5.c>
-        php_value display_errors on
-</IfModule>
+php_value display_errors on
 
 RewriteEngine On
 RewriteBase /

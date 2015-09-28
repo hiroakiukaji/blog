@@ -1,0 +1,4 @@
+---
+applications:
+- name: fc2blog
+  buildpack: php_buildpack

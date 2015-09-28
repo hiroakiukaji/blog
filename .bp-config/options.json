@@ -1,0 +1,6 @@
+{
+        "WEBDIR": "htdocs",
+        "LIBDIR": "htdocs/public/js/jquery/jQuery-Timepicker-Addon/",
+        "PHP_EXTENSIONS": ["mysqli", "pdo", "pdo_mysql", "gettext", "mbstring", "gd"],
+        "COMPOSER_INSTALL_OPTIONS": ["--no-interaction", "--no-dev", "--no-progress", "--working-dir ./public/js/jquery/jQuery-Timepicker-Addon/"]
+}
